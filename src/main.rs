@@ -5,6 +5,6 @@ use structs::date::Date;
 
 fn main() {
     let day: Date = Date::new(123142, String::from("Essen"));
-    convert_time_to_actual_date(930001);
+    convert_time_to_actual_date(9221130001);
 }
 
